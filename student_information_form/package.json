@@ -1,0 +1,17 @@
+{
+  "name": "simple-form",
+  "version": "1.0.0",
+  "description": "A simple form with a Node.js backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^5.13.22"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
