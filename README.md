@@ -54,3 +54,63 @@ The Quiz Application is an interactive platform where users can test their knowl
 
 ---
 
+## 4. Portfolio 
+[Live Demo](https://17hrishi.github.io/PPortfolio/)
+
+### Description  
+This is my online portfolio showcasing my skills and experience  
+
+### Features  
+- My Introduction. 
+- Results Information.  
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 5. ShopMore  
+[Live Demo](https://17hrishi.github.io/ShopMore/)  
+
+### Description  
+ShopMore is a modern e-commerce platform designed to provide a seamless shopping experience. It features an intuitive UI, multiple product categories, and a secure checkout process.  
+
+### Features  
+- Product catalog with various categories.  
+- Search and filter functionality.  
+- Shopping cart and secure checkout.  
+- Order tracking and management.  
+- Responsive design for mobile and desktop users.  
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+- Node.js (if applicable)  
+- Firebase / MongoDB (if applicable)  
+
+---
+
+
+## 6. SwimmingClass  
+[Live Demo](https://17hrishi.github.io/SwimmingClass/)  
+
+### Description  
+SwimmingClass is an online platform designed to help users learn swimming through structured lessons and interactive tutorials. The platform offers various difficulty levels and personalized progress tracking.  
+
+### Features  
+- Structured swimming lessons.  
+- Video tutorials for techniques.  
+- Progress tracking and performance insights.  
+- Tips and best practices for swimmers.  
+- Responsive design for mobile and desktop users.  
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
